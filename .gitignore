@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# App runtime files
+config.json
+*.compressed
+*.log
+
+# Build / dist
+dist/
+build/
+*.spec
+*.exe
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Personal scripts and legacy standalone scripts
+.script/
+compress_mijn_boeken/
+
+# OS
+Thumbs.db
+.DS_Store
